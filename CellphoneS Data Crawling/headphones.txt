@@ -1,0 +1,172 @@
+INSERT INTO product VALUES(45,'Tai nghe Devia Smart Series Dual Speakers 3,5mm',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/f/r/frame_28_1.png',
+'Thiết kế độc đáo với phần củ tai được đặt 2 màng loa bên trong|
+Trang bị 2 driver 9mm mang đến chất âm mạnh mẽ và bùng nổ|
+Cổng 3.5mm tương thích nhiều thiết bị: Smartphone, laptop, PC, vv|
+Dây dẫn chất liệu nhựa PC chống rối, bền bỉ hạn chế bị đứt gãy',
+'Cổng kết nối    3.5mm|
+Micro    Có|
+Kích thước driver    9mm|
+Phương thức điều khiển    Nút bấm trên dây|
+Hãng sản xuất    Devia|
+Chất liệu    Nhựa + Kim loại|
+',
+200000 ,1,6)
+
+INSERT INTO product VALUES(46,'Tai nghe chụp tai JBL Live 660NC',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_269_1.png',
+'Tính năng chống ồn chủ động ANC giúp loại bỏ mọi tạp âm môi trường xung quanh|
+Kiểu dáng thời thượng, tai nghe được bọc vải Fabric tạo cảm giác thoải mái khi đeo|
+Màng loa kích thước 40 mm mang đến chất lượng âm thanh sống động, chân thực|
+Thời lượng pin ấn tượng khi có thể hoạt động đến 50 giờ liên tục chỉ với một lần sạc',
+'Thời lượng pin    50 giờ|
+Công nghệ âm thanh    JBL Signature Sound, Chống ồn chủ động ANC|
+Micro    Có|
+Tương thích    Các thiết bị có hỗ trợ Bluetooth|
+Tính năng khác    Chế độ môi trường xung quanh|
+Kích thước driver    40mm|
+Phương thức điều khiển    Nút bấm vật lý|
+Hãng sản xuất    JBL|
+Phạm vi kết nối    10 m|
+',
+4490000 ,1,6)
+
+INSERT INTO product VALUES(47,'Tai nghe không dây Havit TW959',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/f/r/frame_4_1_1.png',
+'Chuẩn Bluetooth 5.1 cho chất lượng kết nối ổn định, nhanh chóng|
+Độ trễ thấp chỉ 65 ms mang đến trải nghiệm chơi game mượt mà|
+Kháng nước, bụi chuẩn IPX4 giúp bảo vệ tai nghe khi bị dính nước|
+Thiết kế chuẩn công thái học mang đến cảm giác thoải mái khi đeo',
+'Thời lượng pin    Tai nghe: 5.5 giờ. Hộp sạc: 20 giờ|
+Chống nước    IPX4|
+Micro    Có|
+Tương thích    Các thiết bị có hỗ trợ Bluetooth|
+Kích thước driver    10 mm|
+Độ trễ    65 ms|
+Phương thức điều khiển    Chạm cảm ứng|
+Hãng sản xuất    Havit|
+Phạm vi kết nối    10 m|
+',
+690000 ,1,6)
+
+INSERT INTO product VALUES(48,'Tai nghe KZ ZST',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_192_1__1_1.png',
+'Lõi dây mạ bạc giúp giúp giảm hiện tượng thất thoát, méo tiếng khi nghe|
+Kiểu dáng nhỏ gọn ôm khít tai tạo cảm giác dễ chịu ngay cả khi đeo lâu|
+Tích hợp phím bấm vật lý trên dây giúp thao tác nhanh chóng và tiện lợi|
+Trang bị jack cắm 3.5 mm và chuẩn Bluetooth hỗ trợ chuyển đổi đa dạng',
+'Cổng kết nối    3.5mm|
+Micro    Có|
+Tương thích    Các thiết bị có hỗ trợ cổng 3.5 mm|
+Tính năng khác    Dây đeo có thể tháo rời|
+Kích thước driver    10 mm|
+Phương thức điều khiển    Nút bấm vật lý|
+Hãng sản xuất    KZ|
+',
+550000 ,1,6)
+
+INSERT INTO product VALUES(49,'Tai nghe chụp tai Sony WH-1000XM5',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_172_2.png',
+'Công nghệ Auto NC Optimizer tự động khử tiếng ồn dựa theo môi trường|
+Trải nghiệm nghe chân thật, sống động nhờ tính năng 360 Reality Audio|
+Thiết kế sang trọng, trọng lượng nhẹ với phần da mềm mại, ôm khít đầu|
+Năng lượng cho cả ngày dài với thời lượng sử dụng pin lên đến 40 giờ',
+'Thời lượng pin    Tắt chống ồn ANC: Dùng 40 giờ. Bật chống ồn ANC: Dùng 30 giờ|
+Công nghệ âm thanh    Auto NC Optimizer (Tự động điều chỉnh chống ồn). Âm thanh 360 độ|
+Micro    Có|
+Tương thích    Các thiết bị có hỗ trợ Bluetooth|
+Tính năng khác    Tự động dừng nhạc khi bắt đầu trò chuyện. Điều khiển bằng giọng nói thông qua Google, Alexa|
+Kích thước driver    30mm|
+Phương thức điều khiển    Cảm ứng chạm|
+Hãng sản xuất    Sony|
+Phạm vi kết nối    10 m|
+',
+9490000 ,1,6)
+
+INSERT INTO product VALUES(50,'Tai nghe Bluetooth Havit TW945',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_196_1_.png',
+'Thiết kế nhỏ gọn, đột phá với tông màu trong suốt|
+Trang bị Bluetooth 5.3, kết nối nhanh chóng, ổn định|
+Gaming Mode 0.05s, mang đến trải nghiệm tuyệt vời|
+Sử dụng driver 13mm cho âm bass sâu và nội lực',
+'Thời lượng pin    Tai nghe: 3 giờ. Hộp sạc: 30 giờ|
+Công nghệ âm thanh    Gaming Mode 0.05s|
+Micro    Có|
+Tương thích    Các thiết bị có hỗ trợ Bluetooth|
+Kích thước driver    13mm|
+Phương thức điều khiển    Chạm cảm ứng|
+Hãng sản xuất    Havit|
+',
+450000 ,1,6)
+
+INSERT INTO product VALUES(51,'Tai nghe chụp tai Robot RH-G20',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/f/r/frame_1_3_7.png',
+'Trang bị micro có thể điều chỉnh linh hoạt giúp thu âm, đàm thoại tốt hơn|
+Cổng kết nối 3.5mm tương thích nhiều thiết bị như điện thoại, laptop, PC, vv|
+Đèn LED có khả năng chuyển đổi 7 màu sắc, chuẩn phong cách gaming|
+Thiết kế gọng kim loại dẻo ôm khít vào tai và dây dẫn bọc dù chắc chắn',
+'Cổng kết nối    3.5mm|
+Micro    Có|
+Tương thích    PC, Laptop, Smartphone, Máy chơi game|
+Kích thước driver    50mm|
+Phương thức điều khiển    Nút bấm vật lý|
+Hãng sản xuất    Robot|
+Chất liệu    Gọng kim loại dẻo Dây dẫn bọc dù|
+Công suất    30mW|
+',
+390000 ,1,6)
+
+INSERT INTO product VALUES(52,'Tai nghe không dây Nokia E3100',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/f/r/frame_7_1_1.png',
+'Thiết kế trẻ trung, siêu cuốn hút với đa dạng lựa chọn màu sắc nổi bật|
+Tận hưởng chất lượng âm thanh tốt với màng loa có kích thước 6 mm|
+Chuẩn kháng nước IPX3 giúp đảm bảo an toàn với những tia nước bắn|
+Trang bị công nghệ Bluetooth 5.0 cho phép kết nối nhanh chóng, ổn định',
+'Thời lượng pin    Tai nghe: Dùng 2.5 giờHộp sạc: Dùng 10 giờ|
+Chống nước    IPX3|
+Micro    Có|
+Tương thích    Các thiết bị có hỗ trợ Bluetooth|
+Tính năng khác    Tự động kết nối khi mở hộp sạc|
+Kích thước driver    6 mm|
+Phương thức điều khiển    Nút điều khiển vật lý|
+Hãng sản xuất    Nokia|
+',
+590000 ,1,6)
+
+INSERT INTO product VALUES(53,'Tai nghe không dây Soundpeats H2',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_198_2_1.png',
+'Đàm thoại rõ ràng với 2 micro mỗi bên tai cùng với công nghệ khử ồn cVc 8.0|
+Chất lượng âm thanh tiên tiến độc đáo với khả năng tái tạo nhịp điệu nổi bật|
+Thời lượng pin tốt có thể hoạt động đến 20 giờ liên tục khi dùng kèm hộp sạc|
+Độ trễ thấp chỉ 60ms cho bạn chơi game thỏa thích mà không bị gián đoạn',
+'Thời lượng pin    Tai nghe: 5 giờHộp sạc: 20 giờ|
+Chống nước    IPX4|
+Micro    Có|
+Tương thích    Các thiết bị có hỗ trợ Bluetooth|
+Tính năng khác    Tự động kết nối khi mở hộp|
+Kích thước driver    8 mm|
+Độ trễ    60 ms (Chế độ Game mode)|
+Phương thức điều khiển    Chạm cảm ứng|
+Hãng sản xuất    Soundpeats|
+Phạm vi kết nối    10 m|
+',
+1690000 ,1,6)
+
+INSERT INTO product VALUES(54,'Tai nghe chụp tai Gaming Sony Inzone H7',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/s/o/sonyyy.jpg',
+'Công nghệ âm thanh 360 Spatial Sound - cho phép phát hiện vị trí của đối thủ, nghe rõ từng tiếng bước chân|
+Âm trầm mạnh mẽ - Tái hiện chân thật tứng tiếng nổ và tiếng động cơ|
+Cảm giác đeo thoải mái - Đệm tai ôm sát tai|
+Siêu bền bỉ - Sử dụng lên đến 40 giờ chỉ với 1 lần sạc|
+Kết nối không dây thông qua bluetooth hay kết nối không dây USB ',
+'Thời lượng pin    Tối đa 40 giờ|
+Công nghệ âm thanh    360 Spatial Sound|
+Micro    Micro boom, tập trung vào giọng nói|
+Tính năng khác    Có thể vừa chơi vừa sạc  Cho phép tinh chỉnh cá nhân hóa nội dung game  Có thể điều chỉnh cài đặt tai nghe trong trung tâm điều khiển PS5|
+Kích thước driver    40 mm, loại vòm (Cuộn dây âm thanh EDCCA)|
+Độ trễ    Độ trễ thấp với kết nối không dây 2.4 GHz|
+Pin    Pin sạc lithium-ion tích hợp|
+Hãng sản xuất    Sony|
+',
+5300000 ,1,6)
+

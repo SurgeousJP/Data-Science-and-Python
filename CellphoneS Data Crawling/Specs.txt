@@ -1,0 +1,736 @@
+1
+Loại card đồ họa    Intel Iris Xe Graphics|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 3200MHz|
+Số khe ram    2 khe (Nâng cấp tối đa 64GB)|
+Ổ cứng    512GB PCIe NVMe M.2 SSD (1 slot)|
+Kích thước màn hình    14 inches|
+Công nghệ màn hình    Tần số quét 60Hz  Độ phủ màu 45% NTSC, 63% sRGB  Thin Bezel|
+Pin    3 Cell, 39Whr|
+Hệ điều hành    Windows 11 Home|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x Type-C USB3.2 Gen 2  2x Type-A USB3.2 Gen 1 1x Micro SD 1x HDMI (4K @ 60Hz)|
+
+2
+Loại card đồ họa    Geforce GTX 1650 4GB|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 8GB (1 x 8GB) 3200MHz, up to 32GB|
+Số khe ram    2 khe|
+Ổ cứng    512GB SSD NVMe M.2 PCIe Gen 3 x 4|
+Kích thước màn hình    15.6 inches|
+Công nghệ màn hình    IPS Panel, 144Hz|
+Hệ điều hành    Windows 11 SL 64 Bit|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x Type C USB 3.2 Gen 1 (Power Delivery/Display Port)  3x USB 3.2 Gen 1 Type-A  1x 3.5mm Combo Audio Jack  1x HDMI 2.0b|
+
+3
+Loại card đồ họa    Intel UHD Graphics|
+Dung lượng RAM    4GB|
+Loại RAM    DDR4 2400MHz|
+Số khe ram    1 Khe cắm / Hỗ trợ tối đa 12GB|
+Ổ cứng    256GB SSD M.2 NVMe1 x 2.5" SATA , 1 x M.2 NVMe|
+Kích thước màn hình    15.6 inches|
+Pin    2 cell 37 Wh|
+Hệ điều hành    Windows 11|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1 x USB 3.1 , 2 x USB 2.0 , Audio combo , LAN 1 Gb/s|
+
+4
+Loại card đồ họa    NVIDIA® GeForce RTX™ 3050 Ti Max-Q 4GB|
+Dung lượng RAM    8GB|
+Loại RAM    8 GB (8GBx1) DDR4 3200MHz (2 Khe, tối đa 64GB)|
+Ổ cứng    512GB NVMe PCIe Gen3x4 SSD|
+Kích thước màn hình    15.6 inches|
+Công nghệ màn hình    72% NTSC IPS-Level, close to 100%s RGB|
+Pin    3 cell, 51Whr|
+Hệ điều hành    Windows 11 Home SEA|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x Type-C USB3.2 Gen1  3x Type-A USB3.2 Gen1  1x (4K @ 30Hz) HDMI  1x Mic-in  1x Headphone-out|
+
+5
+Loại card đồ họa    Intel Iris Xe Graphics|
+Dung lượng RAM    16GB|
+Loại RAM    16GB Onboard DDR4-3200|
+Ổ cứng    512GB SSD M.2 2242 PCIe 3.0x4 NVMe|
+Kích thước màn hình    14 inches|
+Công nghệ màn hình    Độ sáng 300nits  Màn hình Anti-glare Độ phủ màu 100% sRGB TÜV Low Blue Light|
+Pin    56.5Wh|
+Hệ điều hành    Windows 11 Home 64 Single Language|
+Độ phân giải màn hình    2240 x 1400 pixels|
+Cổng giao tiếp    1x USB 3.2 Gen 1 1x USB 3.2 Gen 1 (Always On) 1x USB-C 3.2 Gen 1 (Truyền dữ liệu, Power Delivery 3.0, DisplayPort 1.4) 1x USB-C 3.2 Gen 1 (Truyền dữ liệu, Power Delivery 3.0) 1x HDMI 1.4b 1x Đầu đọc thẻ 1x Headphone / microphone co|
+
+6
+Loại card đồ họa    Intel UHD Graphics|
+Dung lượng RAM    8GB|
+Loại RAM    8GB DDR4-3200|
+Ổ cứng    512GB SSD M.2 2242 PCIe 4.0x4 NVMe|
+Kích thước màn hình    15.6 inches|
+Công nghệ màn hình    TN 250nits Chống chói|
+Pin    45Wh|
+Hệ điều hành    Windows 11|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x USB 2.0  1x USB 3.2 Thế hệ 1  1x USB-C 3.2 Gen 1 (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)  1x HDMI 1.4b  1x đầu đọc thẻ 1 x giắc cắm kết hợp tai nghe / micrô (3,5 mm)  1x Đầu nối nguồn|
+
+7
+Loại card đồ họa    Intel Iris Xe Graphics|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4, tốc độ bus 2400Mhz|
+Số khe ram    Nâng cấp tối đa 12GB (4GB onboard cắm sẵn + 4GB khe rời)|
+Ổ cứng    256GB PCIe NVMe SSD (nâng cấp tối đa 2TB HDD và 1TBSSD PCIe NVMe)|
+Kích thước màn hình    15.6 inches|
+Pin    36.7 Wh 2-cell Li-ion battery|
+Hệ điều hành    Windows 11 Home SL|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1 x USB 2.01 x HDMI®2.0 1 x Combo mic tai nghe 3.5mm 1 x Ethernet (RJ-45)  2 x USB 3.2 Gen 1|
+
+8
+Loại card đồ họa    NVIDIA® GeForce® MX550 2GB GDDR6|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4  3200 MHz|
+Ổ cứng    256 GB PCIe® NVMe™ M.2 SSD|
+Kích thước màn hình    15.6 inches|
+Pin    3-cell, 41 Wh Li-ion|
+Hệ điều hành    Windows 11 Home SL|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1 USB Type-C2 USB Type-A1 HDMI 2.1  1 cổng mic tai nghe|
+
+9
+Loại card đồ họa    AMD Radeon Graphics|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 3200MHz|
+Số khe ram    2 khe|
+Ổ cứng    256GB SSD M.2 NVMe|
+Kích thước màn hình    14 inches|
+Pin    3 cell 41 Wh|
+Hệ điều hành    Windows 11 Home SL|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x HDMI  1x USB Type C  2x USB 3.2  1x Audio combo  1x LAN 1 Gb/s|
+
+10
+Loại card đồ họa    NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500 / 1740MHz, TGP 90W|
+Dung lượng RAM    8GB|
+Loại RAM    8GB SO-DIMM DDR4-3200|
+Số khe ram    2 khe cắm DDR4 SO-DIMM, hỗ trợ kênh đôi|
+Ổ cứng    512GB SSD M.2 2280 PCIe 3.0x4 NVMe1 khe 2.5" tối nâng tối đa 1TB M.2 2242 SSD nâng tối đa 512GB|
+Kích thước màn hình    15.6 inches|
+Công nghệ màn hình    Độ sáng 250 nits  Màn hình chống chói Độ phủ màu 45% NTSC Tần số quét 120Hz|
+Pin    45Wh|
+Hệ điều hành    Windows 11 Home Single Language|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    2x USB 3.2 Gen 1 1x USB-C 3.2 Gen 1 (chỉ hỗ trợ truyền dữ liệu) 1x HDMI 2.0 1x Ethernet (RJ-45) 1x Headphone / microphone combo jack (3.5mm) 1x Đầu nối nguồn|
+
+11
+Socket    Intel LGA 1700|
+Loại card đồ họa    GTX 1660 Super|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 3200Mhz|
+Số khe ram    2 x DDR4|
+Ổ cứng    SSD 240GB Sata III 2.5inch|
+Chipset (PC lắp ráp)    H610|
+Cổng I/O mặt sau (PC lắp ráp)    2 x Antenna Mounting Points1 x PS/2 Mouse/Keyboard Port1 x D-Sub Port1 x HDMI Port1 x DisplayPort 1.42 x USB 3.2 Gen1 Ports (Supports ESD Protection)2 x USB 2.0 Ports (Supports ESD Protection)1 x RJ-45 LAN Port with LED (ACT/LINK LED and SPEED LED)HD Audio Jacks: Line in / Front Speaker / Microphone|
+
+12
+Socket    Intel LGA 1700|
+Loại card đồ họa    RTX 4070Ti OC|
+Dung lượng RAM    16GB|
+Loại RAM    2 x 8GB DDR4 3200Mhz|
+Số khe ram    2 x DDR4|
+Ổ cứng    SSD 500GB M2 PCIe|
+Chipset (PC lắp ráp)    Z790|
+Cổng I/O mặt sau (PC lắp ráp)    1 x USB Type-C, hỗ trợ USB 3.2 Gen 2x22 x USB 3.2 Gen 2 Type-A (màu đỏ)3 x USB 3.2 Gen 14 x USB 2.0/1.12 x SMA (2T2R)1 x HDMI 2.01 x RJ-451 x S/PDIF Out2 x jack âm thanh|
+
+13
+Socket    Intel LGA 1200|
+Loại card đồ họa    Intel® UHD 630|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 3200Mhz|
+Số khe ram    4 x DDR4|
+Ổ cứng    SSD 120GB Sata III|
+Chipset (PC lắp ráp)    B560|
+Cổng I/O mặt sau (PC lắp ráp)    2 x USB 3.2 Gen 2 port(s) (1 x Type-A, 1 x USB Type-C4 x USB 2.0 port(s) (4 x Type-A)1 x DisplayPort2 x HDMI™ port1 x Intel® I219-V 1Gb Ethernet port1 x V-M.2 slot (Key E)3 x Audio jacks1 x PS/2 Keyboard/Mouse combo port|
+
+14
+Socket    Intel LGA 1700|
+Loại card đồ họa    GTX 1650|
+Dung lượng RAM    16GB|
+Loại RAM    1 x 16GB DDR4 3200Mhz|
+Số khe ram    4 x DDR4|
+Ổ cứng    SSD 500GB M2 PCIe|
+Chipset (PC lắp ráp)    B760|
+Cổng I/O mặt sau (PC lắp ráp)    2 cổng USB 2.0/1.11 cổng bàn phím/chuột PS/22 x SMA (2T2R)1 x HDMI2 x DisplayPorts3 x USB 3.2 Gen 11 x USB Type-C1 x RJ-453 x jack âm thanh|
+
+15
+Socket    Intel LGA 1700|
+Loại card đồ họa    GT1030|
+Dung lượng RAM    16GB|
+Loại RAM    DDR4 3200Mhz|
+Số khe ram    1 x 16GB DDR4 3200Mhz|
+Ổ cứng    SSD 240GB Sata III|
+Chipset (PC lắp ráp)    B760|
+Cổng I/O mặt sau (PC lắp ráp)    2 cổng USB 2.0/1.11 cổng bàn phím/chuột PS/22 x SMA (2T2R)1 x HDMI2 x DisplayPorts3 x USB 3.2 Gen 11 x USB Type-C1 x RJ-453 x jack âm thanh|
+
+16
+Loại card đồ họa    Intel® UHD Graphics|
+Dung lượng RAM    4GB|
+Loại RAM    4GB DDR4/ 3200MHz - RAM NoteBook|
+Số khe ram    2 khe|
+Ổ cứng    512 GB SSD PCIe (M.2 2280)|
+Kích thước màn hình    23.8 inches|
+Công nghệ màn hình    FHD (1920 x 1080) IPS  Wide view  Anti-glare  Touch-screen | 16:9|
+Hệ điều hành    Windows 11 Home Single Language 64-bit|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    Side I/O Ports: 1x USB 2.0 Type-A  1x Headphone/ Microphone combo audio jack  1x Mode button  1x Kensington lock Back I/O Ports: 4x USB 3.2 Gen 1 Type-A  1 x HDMI-in  1x HDMI-out  1x RJ45 (LAN)  1x SATA3 (không cáp)|
+
+17
+Loại card đồ họa    Intel UHD Graphics|
+Dung lượng RAM    4GB|
+Loại RAM    DDR4 2 khe (1 khe 4GB + 1 khe trống)|
+Số khe ram    2 khe tối đa 32GB|
+Ổ cứng    512 GB SSD   Hỗ trợ thêm 1 khe cắm HDD SATA (Nâng cấp tối đa 1TB)   Hỗ trợ thêm 1 khe cắm SSD M2 PCIe mở rộng|
+Kích thước màn hình    21.5 inches|
+Công nghệ màn hình    Màn hình chống loá, 100% sRGB, 250 nits|
+Hệ điều hành    Windows 11 Home SL|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x USB 3.2 Gen 2 Type-   1x Thunderbolt 4   2 x USB 2.0   3 x USB 3.2   HDMI   Jack 3.5 mm   LAN (RJ45)|
+
+18
+Loại card đồ họa    NVIDIA GeForce RTX3070 8GB DDR6|
+Dung lượng RAM    16GB|
+Loại RAM    DDR4-3200 LO-DIMM|
+Ổ cứng    1TB M.2 NVMe™ PCIe® 4.0 SSD|
+Cổng giao tiếp    Mặt trước:  2x USB 3.2 Gen 1 Type-A  2x USB 3.2 Gen 1 Type-C  1x Headphone  1x Microphone  Mặt sau:  1x USB 3.2 Gen 2 Type-C  3x USB 3.2 Gen 2 Type-A  4x USB 3.2 Gen 1 Type-A  1x Mic-in  1x Center / Sub Wo|
+
+19
+Loại card đồ họa    NVIDIA GeForce RTX RTX3070 8GB DDR6 (LHR: 3x DP, 2x HDMI)|
+Dung lượng RAM    16GB|
+Loại RAM    16 GB DDR4 U-DIMM|
+Số khe ram    2 khe tối đa 64 GB|
+Ổ cứng    512 GB M.2 NVMe PCIe 4.0 SSD|
+Chipset (PC lắp ráp)    B660|
+Cổng I/O mặt sau (PC lắp ráp)    1x RJ45 Gigabit Ethernet 1x HDMI 2.0a1x Display port 1.45 x Audio jacks4x USB 2.0 Type-A1x USB 3.2 Gen 2 Type-C2x USB 3.2 Gen 2 Type-A|
+Hệ điều hành    Windows 11 Home|
+Cổng giao tiếp    Cổng trước: 1x Headphone1x Mic in1x USB 3.2 Gen 1 Type-A1x USB 3.2 Gen 1 Type-C|
+
+20
+Loại card đồ họa    NVIDIA GeForce RTX3060Ti 8GB DDR6 (3x DP, 2x HDMI)|
+Dung lượng RAM    16GB|
+Loại RAM    8GB DDR4 U-DIMM x 2|
+Số khe ram    2 khe tối đa 64 GB|
+Ổ cứng    512 GB M.2 NVMe PCIe 4.0 SSD|
+Chipset (PC lắp ráp)    B660|
+Cổng I/O mặt sau (PC lắp ráp)    1x RJ45 Gigabit Ethernet 1x HDMI 2.0a1x Display port 1.45 x Audio jacks4x USB 2.0 Type-A1x USB 3.2 Gen 2 Type-C2x USB 3.2 Gen 2 Type-A|
+Hệ điều hành    Windows 11 Home|
+Cổng giao tiếp    Cổng trước: 1x Headphone1x Mic in1x USB 3.2 Gen 1 Type-A1x USB 3.2 Gen 1 Type-C|
+
+21
+Tần số quét    75 Hz|
+Thời gian phản hồi    5ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    1x HDMI  1x D-Sub|
+Độ tương phản tĩnh    1000:1|
+Góc nhìn    178°/178°|
+Tấm nền    IPS|
+Kích thước màn hình    23.8 inches|
+Trọng lượng    3.4 kg bao gồm chân đế|
+Độ phân giải màn hình    Full HD (1920x1080)|
+
+22
+Tần số quét    75 Hz|
+Thời gian phản hồi    5ms|
+Tỉ lệ màn hình    21:9|
+Cổng kết nối    2 cổng HDMI1 DisplayPort 1.2|
+Độ tương phản tĩnh    1000:1|
+Góc nhìn    178/178|
+Tấm nền    IPS|
+Kích thước màn hình    29 inches|
+Trọng lượng    Khối lượng gồm chân để:4,7kg|
+Độ phân giải màn hình    2560x1080 pixels|
+Tính năng khác    Hiệu ứng HDRChống chớp hìnhChế độ mù màuAMD FreeSync™	Dynamic Action SyncTiết kiệm năng lượng thông minh|
+
+23
+Tần số quét    75 Hz|
+Thời gian phản hồi    5ms|
+Tỉ lệ màn hình    21:9|
+Cổng kết nối    1 x HDMI  1 x DisplayPort 1.4  1 x USB-C  1 x Jack tai nghe 3.5|
+Độ tương phản tĩnh    1000:1|
+Góc nhìn    178º(R/L), 178º(U/D)|
+Tấm nền    IPS|
+Kích thước màn hình    29 inches|
+Trọng lượng    Khối lượng không tính chân đế: 4kg  Khối lượng tính cả chân đế: 4.8kg|
+Độ phân giải màn hình    2560 x 1080 pixels|
+
+24
+Tần số quét    60 Hz|
+Thời gian phản hồi    4ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    Cổng màn hìnhCổng HDMICổng Display Port 1.2|
+Độ tương phản tĩnh    1.000:1|
+Góc nhìn    178°(ngang) x 178° (dọc)|
+Tấm nền    IPS|
+Kích thước màn hình    28 inches|
+Trọng lượng    Có chân đế 5.8 kg  Không có chân đế 5.0 kg|
+Độ phân giải màn hình    3,840 x 2,160 pixels|
+
+25
+Tần số quét    75 Hz|
+Thời gian phản hồi    8ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    VGA  HDMI|
+Độ tương phản tĩnh    1000 : 1|
+Góc nhìn    178/178|
+Tấm nền    IPS|
+Kích thước màn hình    24 inches|
+Kích thước màn hình (studio display)    23.8 inch|
+Trọng lượng    4.1 kg|
+Độ phân giải màn hình    1920 x 1080 pixels|
+
+26
+Tần số quét    165 Hz|
+Thời gian phản hồi    1ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    Display Port 1.2 (1), HDMI 1.4 (1), Tai nghe|
+Độ tương phản động    3000:1(Typ.)|
+Góc nhìn    178°(H)/178°(V)|
+Tấm nền    WVA|
+Kích thước màn hình    27 inches|
+Trọng lượng    4.8 kg bao gồm chân đế|
+Độ phân giải màn hình    1920 x 1080 pixels|
+
+27
+Tần số quét    144 Hz|
+Thời gian phản hồi    1ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    2 x HDMI  1 x DisplayPor  Headphone Out|
+Độ tương phản tĩnh    1000:1|
+Góc nhìn    178º (R/L), 178º (U/D)|
+Tấm nền    IPS|
+Kích thước màn hình    24 inches|
+Trọng lượng    5.6Kg|
+Độ phân giải màn hình    1920 x 1080|
+
+28
+Loại bàn phím (bàn phím)    Full-size|
+Số phím (bàn phím)    104|
+Keycap (bàn phím)    Thiết kế keycap có chủ ý để chiếu sáng chính xác và rõ ràng|
+Nút nhấn    Thiết kế chống tràn, không xung đột cho tất cả các phím|
+Tương thích    Windows|
+Kết nối    Dây USB|
+Đèn LED    Đèn nền phím màu trắng với 12 chế độ chỉnh độ sáng|
+Tiện ích    Tuổi thọ bàn phím lên đến 60 triệu lần gõCảm giác cơ học thuần túy, phù hợp với những game thủ cao|
+Hãng sản xuất    Rapoo|
+Chất liệu    Nhựa PBT|
+Kết nối    USB 2.0|
+
+29
+Đèn nền LED    Có|
+Hãng sản xuất    Acer|
+Chất liệu    Nhựa ABS|
+Tiện ích    Trang bị Switch Outemu Blue, lực nhấn 60g   N-Key Rollover đầy đủ, đạt tiêu chuẩn 50 triệu lần nhấn|
+
+30
+Tương thích    Windows|
+Cách kết nối    Dây cắm USB|
+Hãng sản xuất    Zadez|
+Tính năng khác    - Thiết kế Ergonomic - 11 phím Multimedia  4 phím Macro, 3 phím chuyển Profile  Chức năng ghi macro bằng phím nóng  - 11 phím Multimedia, 26 phím N-Rollover   Độ bền phím: >10 triệu lần nhấn|
+
+31
+Pin    2 pin AAA, tuổi thọ pin 24 tháng.|
+Tương thích    Windows, MacOS, ChromeOS, iOS, Android, PadOS|
+Cách kết nối    Bluetooth|
+Độ dài dây / Khoảng cách kết nối    10 m|
+Kích thước bàn phím    Tenkeyless|
+Đèn nền LED    Không|
+Hãng sản xuất    Logitech|
+
+32
+Hãng sản xuất    Logitech|
+Cổng giao tiếp    USB (Khoảng cách kết nối: 10m)|
+Tính năng khác    - Bàn phím gõ thoải mái- Phím dễ đọc- Phím nhấn bền|
+
+33
+Loại bàn phím (bàn phím)    Mini-size|
+Nút nhấn    Phím được tạo hình vừa vặn với ngón tayMỗi phím được trang bị lớp phủ mờ|
+Tương thích    MacOS, Windows, Linux|
+Kết nối    USB Receiver, Dây USB|
+Đèn LED    Có hỗ trợ|
+Tiện ích    Tính năng tiết kiệm pin thông minhPhím đọc chính tả giúp chuyển đàm thoại thành văn bản|
+Hãng sản xuất    Logitech|
+
+34
+Loại bàn phím (bàn phím)    Full-size|
+Số phím (bàn phím)    108|
+Keycap (bàn phím)    PBT Double-Shot, ASA profile|
+Tương thích    MacOS, Windows, Linux|
+Kết nối    Dây USB to Type-C|
+Hãng sản xuất    AKKO|
+Kết nối    USB Type-C to Type-A|
+Tính năng khác    AKKO switch v3 (Cream Blue / Cream Yellow) kết hợp cùng foam tiêu âm PCB cho trải nghiệm gõ tối ưu và êm ái, LED nền RGB / PCBA 1.6mm|
+
+1
+'Loại card đồ họa    Intel Iris Xe Graphics|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 3200MHz|
+Số khe ram    2 khe (Nâng cấp tối đa 64GB)|
+Ổ cứng    512GB PCIe NVMe M.2 SSD (1 slot)|
+Kích thước màn hình    14 inches|
+Công nghệ màn hình    Tần số quét 60Hz  Độ phủ màu 45% NTSC, 63% sRGB  Thin Bezel|
+Pin    3 Cell, 39Whr|
+Hệ điều hành    Windows 11 Home|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x Type-C USB3.2 Gen 2  2x Type-A USB3.2 Gen 1 1x Micro SD 1x HDMI (4K @ 60Hz)|
+'
+2
+'Loại card đồ họa    Geforce GTX 1650 4GB|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 8GB (1 x 8GB) 3200MHz, up to 32GB|
+Số khe ram    2 khe|
+Ổ cứng    512GB SSD NVMe M.2 PCIe Gen 3 x 4|
+Kích thước màn hình    15.6 inches|
+Công nghệ màn hình    IPS Panel, 144Hz|
+Hệ điều hành    Windows 11 SL 64 Bit|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x Type C USB 3.2 Gen 1 (Power Delivery/Display Port)  3x USB 3.2 Gen 1 Type-A  1x 3.5mm Combo Audio Jack  1x HDMI 2.0b|
+'
+3
+'Loại card đồ họa    Intel UHD Graphics|
+Dung lượng RAM    4GB|
+Loại RAM    DDR4 2400MHz|
+Số khe ram    1 Khe cắm / Hỗ trợ tối đa 12GB|
+Ổ cứng    256GB SSD M.2 NVMe1 x 2.5" SATA , 1 x M.2 NVMe|
+Kích thước màn hình    15.6 inches|
+Pin    2 cell 37 Wh|
+Hệ điều hành    Windows 11|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1 x USB 3.1 , 2 x USB 2.0 , Audio combo , LAN 1 Gb/s|
+'
+4
+'Loại card đồ họa    NVIDIA® GeForce RTX™ 3050 Ti Max-Q 4GB|
+Dung lượng RAM    8GB|
+Loại RAM    8 GB (8GBx1) DDR4 3200MHz (2 Khe, tối đa 64GB)|
+Ổ cứng    512GB NVMe PCIe Gen3x4 SSD|
+Kích thước màn hình    15.6 inches|
+Công nghệ màn hình    72% NTSC IPS-Level, close to 100%s RGB|
+Pin    3 cell, 51Whr|
+Hệ điều hành    Windows 11 Home SEA|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x Type-C USB3.2 Gen1  3x Type-A USB3.2 Gen1  1x (4K @ 30Hz) HDMI  1x Mic-in  1x Headphone-out|
+'
+5
+'Loại card đồ họa    Intel Iris Xe Graphics|
+Dung lượng RAM    16GB|
+Loại RAM    16GB Onboard DDR4-3200|
+Ổ cứng    512GB SSD M.2 2242 PCIe 3.0x4 NVMe|
+Kích thước màn hình    14 inches|
+Công nghệ màn hình    Độ sáng 300nits  Màn hình Anti-glare Độ phủ màu 100% sRGB TÜV Low Blue Light|
+Pin    56.5Wh|
+Hệ điều hành    Windows 11 Home 64 Single Language|
+Độ phân giải màn hình    2240 x 1400 pixels|
+Cổng giao tiếp    1x USB 3.2 Gen 1 1x USB 3.2 Gen 1 (Always On) 1x USB-C 3.2 Gen 1 (Truyền dữ liệu, Power Delivery 3.0, DisplayPort 1.4) 1x USB-C 3.2 Gen 1 (Truyền dữ liệu, Power Delivery 3.0) 1x HDMI 1.4b 1x Đầu đọc thẻ 1x Headphone / microphone co|
+'
+6
+'Loại card đồ họa    Intel UHD Graphics|
+Dung lượng RAM    8GB|
+Loại RAM    8GB DDR4-3200|
+Ổ cứng    512GB SSD M.2 2242 PCIe 4.0x4 NVMe|
+Kích thước màn hình    15.6 inches|
+Công nghệ màn hình    TN 250nits Chống chói|
+Pin    45Wh|
+Hệ điều hành    Windows 11|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x USB 2.0  1x USB 3.2 Thế hệ 1  1x USB-C 3.2 Gen 1 (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)  1x HDMI 1.4b  1x đầu đọc thẻ 1 x giắc cắm kết hợp tai nghe / micrô (3,5 mm)  1x Đầu nối nguồn|
+'
+7
+'Loại card đồ họa    Intel Iris Xe Graphics|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4, tốc độ bus 2400Mhz|
+Số khe ram    Nâng cấp tối đa 12GB (4GB onboard cắm sẵn + 4GB khe rời)|
+Ổ cứng    256GB PCIe NVMe SSD (nâng cấp tối đa 2TB HDD và 1TBSSD PCIe NVMe)|
+Kích thước màn hình    15.6 inches|
+Pin    36.7 Wh 2-cell Li-ion battery|
+Hệ điều hành    Windows 11 Home SL|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1 x USB 2.01 x HDMI®2.0 1 x Combo mic tai nghe 3.5mm 1 x Ethernet (RJ-45)  2 x USB 3.2 Gen 1|
+'
+8
+'Loại card đồ họa    NVIDIA® GeForce® MX550 2GB GDDR6|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4  3200 MHz|
+Ổ cứng    256 GB PCIe® NVMe™ M.2 SSD|
+Kích thước màn hình    15.6 inches|
+Pin    3-cell, 41 Wh Li-ion|
+Hệ điều hành    Windows 11 Home SL|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1 USB Type-C2 USB Type-A1 HDMI 2.1  1 cổng mic tai nghe|
+'
+9
+'Loại card đồ họa    AMD Radeon Graphics|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 3200MHz|
+Số khe ram    2 khe|
+Ổ cứng    256GB SSD M.2 NVMe|
+Kích thước màn hình    14 inches|
+Pin    3 cell 41 Wh|
+Hệ điều hành    Windows 11 Home SL|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x HDMI  1x USB Type C  2x USB 3.2  1x Audio combo  1x LAN 1 Gb/s|
+'
+10
+'Loại card đồ họa    NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500 / 1740MHz, TGP 90W|
+Dung lượng RAM    8GB|
+Loại RAM    8GB SO-DIMM DDR4-3200|
+Số khe ram    2 khe cắm DDR4 SO-DIMM, hỗ trợ kênh đôi|
+Ổ cứng    512GB SSD M.2 2280 PCIe 3.0x4 NVMe1 khe 2.5" tối nâng tối đa 1TB M.2 2242 SSD nâng tối đa 512GB|
+Kích thước màn hình    15.6 inches|
+Công nghệ màn hình    Độ sáng 250 nits  Màn hình chống chói Độ phủ màu 45% NTSC Tần số quét 120Hz|
+Pin    45Wh|
+Hệ điều hành    Windows 11 Home Single Language|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    2x USB 3.2 Gen 1 1x USB-C 3.2 Gen 1 (chỉ hỗ trợ truyền dữ liệu) 1x HDMI 2.0 1x Ethernet (RJ-45) 1x Headphone / microphone combo jack (3.5mm) 1x Đầu nối nguồn|
+'
+11
+'Socket    Intel LGA 1700|
+Loại card đồ họa    GTX 1660 Super|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 3200Mhz|
+Số khe ram    2 x DDR4|
+Ổ cứng    SSD 240GB Sata III 2.5inch|
+Chipset (PC lắp ráp)    H610|
+Cổng I/O mặt sau (PC lắp ráp)    2 x Antenna Mounting Points1 x PS/2 Mouse/Keyboard Port1 x D-Sub Port1 x HDMI Port1 x DisplayPort 1.42 x USB 3.2 Gen1 Ports (Supports ESD Protection)2 x USB 2.0 Ports (Supports ESD Protection)1 x RJ-45 LAN Port with LED (ACT/LINK LED and SPEED LED)HD Audio Jacks: Line in / Front Speaker / Microphone|
+'
+12
+'Socket    Intel LGA 1700|
+Loại card đồ họa    RTX 4070Ti OC|
+Dung lượng RAM    16GB|
+Loại RAM    2 x 8GB DDR4 3200Mhz|
+Số khe ram    2 x DDR4|
+Ổ cứng    SSD 500GB M2 PCIe|
+Chipset (PC lắp ráp)    Z790|
+Cổng I/O mặt sau (PC lắp ráp)    1 x USB Type-C, hỗ trợ USB 3.2 Gen 2x22 x USB 3.2 Gen 2 Type-A (màu đỏ)3 x USB 3.2 Gen 14 x USB 2.0/1.12 x SMA (2T2R)1 x HDMI 2.01 x RJ-451 x S/PDIF Out2 x jack âm thanh|
+'
+13
+'Socket    Intel LGA 1200|
+Loại card đồ họa    Intel® UHD 630|
+Dung lượng RAM    8GB|
+Loại RAM    DDR4 3200Mhz|
+Số khe ram    4 x DDR4|
+Ổ cứng    SSD 120GB Sata III|
+Chipset (PC lắp ráp)    B560|
+Cổng I/O mặt sau (PC lắp ráp)    2 x USB 3.2 Gen 2 port(s) (1 x Type-A, 1 x USB Type-C4 x USB 2.0 port(s) (4 x Type-A)1 x DisplayPort2 x HDMI™ port1 x Intel® I219-V 1Gb Ethernet port1 x V-M.2 slot (Key E)3 x Audio jacks1 x PS/2 Keyboard/Mouse combo port|
+'
+14
+'Socket    Intel LGA 1700|
+Loại card đồ họa    GTX 1650|
+Dung lượng RAM    16GB|
+Loại RAM    1 x 16GB DDR4 3200Mhz|
+Số khe ram    4 x DDR4|
+Ổ cứng    SSD 500GB M2 PCIe|
+Chipset (PC lắp ráp)    B760|
+Cổng I/O mặt sau (PC lắp ráp)    2 cổng USB 2.0/1.11 cổng bàn phím/chuột PS/22 x SMA (2T2R)1 x HDMI2 x DisplayPorts3 x USB 3.2 Gen 11 x USB Type-C1 x RJ-453 x jack âm thanh|
+'
+15
+'Socket    Intel LGA 1700|
+Loại card đồ họa    GT1030|
+Dung lượng RAM    16GB|
+Loại RAM    DDR4 3200Mhz|
+Số khe ram    1 x 16GB DDR4 3200Mhz|
+Ổ cứng    SSD 240GB Sata III|
+Chipset (PC lắp ráp)    B760|
+Cổng I/O mặt sau (PC lắp ráp)    2 cổng USB 2.0/1.11 cổng bàn phím/chuột PS/22 x SMA (2T2R)1 x HDMI2 x DisplayPorts3 x USB 3.2 Gen 11 x USB Type-C1 x RJ-453 x jack âm thanh|
+'
+16
+'Loại card đồ họa    Intel® UHD Graphics|
+Dung lượng RAM    4GB|
+Loại RAM    4GB DDR4/ 3200MHz - RAM NoteBook|
+Số khe ram    2 khe|
+Ổ cứng    512 GB SSD PCIe (M.2 2280)|
+Kích thước màn hình    23.8 inches|
+Công nghệ màn hình    FHD (1920 x 1080) IPS  Wide view  Anti-glare  Touch-screen | 16:9|
+Hệ điều hành    Windows 11 Home Single Language 64-bit|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    Side I/O Ports: 1x USB 2.0 Type-A  1x Headphone/ Microphone combo audio jack  1x Mode button  1x Kensington lock Back I/O Ports: 4x USB 3.2 Gen 1 Type-A  1 x HDMI-in  1x HDMI-out  1x RJ45 (LAN)  1x SATA3 (không cáp)|
+'
+17
+'Loại card đồ họa    Intel UHD Graphics|
+Dung lượng RAM    4GB|
+Loại RAM    DDR4 2 khe (1 khe 4GB + 1 khe trống)|
+Số khe ram    2 khe tối đa 32GB|
+Ổ cứng    512 GB SSD   Hỗ trợ thêm 1 khe cắm HDD SATA (Nâng cấp tối đa 1TB)   Hỗ trợ thêm 1 khe cắm SSD M2 PCIe mở rộng|
+Kích thước màn hình    21.5 inches|
+Công nghệ màn hình    Màn hình chống loá, 100% sRGB, 250 nits|
+Hệ điều hành    Windows 11 Home SL|
+Độ phân giải màn hình    1920 x 1080 pixels (FullHD)|
+Cổng giao tiếp    1x USB 3.2 Gen 2 Type-   1x Thunderbolt 4   2 x USB 2.0   3 x USB 3.2   HDMI   Jack 3.5 mm   LAN (RJ45)|
+'
+18
+'Loại card đồ họa    NVIDIA GeForce RTX3070 8GB DDR6|
+Dung lượng RAM    16GB|
+Loại RAM    DDR4-3200 LO-DIMM|
+Ổ cứng    1TB M.2 NVMe™ PCIe® 4.0 SSD|
+Cổng giao tiếp    Mặt trước:  2x USB 3.2 Gen 1 Type-A  2x USB 3.2 Gen 1 Type-C  1x Headphone  1x Microphone  Mặt sau:  1x USB 3.2 Gen 2 Type-C  3x USB 3.2 Gen 2 Type-A  4x USB 3.2 Gen 1 Type-A  1x Mic-in  1x Center / Sub Wo|
+'
+19
+'Loại card đồ họa    NVIDIA GeForce RTX RTX3070 8GB DDR6 (LHR: 3x DP, 2x HDMI)|
+Dung lượng RAM    16GB|
+Loại RAM    16 GB DDR4 U-DIMM|
+Số khe ram    2 khe tối đa 64 GB|
+Ổ cứng    512 GB M.2 NVMe PCIe 4.0 SSD|
+Chipset (PC lắp ráp)    B660|
+Cổng I/O mặt sau (PC lắp ráp)    1x RJ45 Gigabit Ethernet 1x HDMI 2.0a1x Display port 1.45 x Audio jacks4x USB 2.0 Type-A1x USB 3.2 Gen 2 Type-C2x USB 3.2 Gen 2 Type-A|
+Hệ điều hành    Windows 11 Home|
+Cổng giao tiếp    Cổng trước: 1x Headphone1x Mic in1x USB 3.2 Gen 1 Type-A1x USB 3.2 Gen 1 Type-C|
+'
+20
+'Loại card đồ họa    NVIDIA GeForce RTX3060Ti 8GB DDR6 (3x DP, 2x HDMI)|
+Dung lượng RAM    16GB|
+Loại RAM    8GB DDR4 U-DIMM x 2|
+Số khe ram    2 khe tối đa 64 GB|
+Ổ cứng    512 GB M.2 NVMe PCIe 4.0 SSD|
+Chipset (PC lắp ráp)    B660|
+Cổng I/O mặt sau (PC lắp ráp)    1x RJ45 Gigabit Ethernet 1x HDMI 2.0a1x Display port 1.45 x Audio jacks4x USB 2.0 Type-A1x USB 3.2 Gen 2 Type-C2x USB 3.2 Gen 2 Type-A|
+Hệ điều hành    Windows 11 Home|
+Cổng giao tiếp    Cổng trước: 1x Headphone1x Mic in1x USB 3.2 Gen 1 Type-A1x USB 3.2 Gen 1 Type-C|
+'
+21
+'Tần số quét    75 Hz|
+Thời gian phản hồi    5ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    1x HDMI  1x D-Sub|
+Độ tương phản tĩnh    1000:1|
+Góc nhìn    178°/178°|
+Tấm nền    IPS|
+Kích thước màn hình    23.8 inches|
+Trọng lượng    3.4 kg bao gồm chân đế|
+Độ phân giải màn hình    Full HD (1920x1080)|
+'
+22
+'Tần số quét    75 Hz|
+Thời gian phản hồi    5ms|
+Tỉ lệ màn hình    21:9|
+Cổng kết nối    2 cổng HDMI1 DisplayPort 1.2|
+Độ tương phản tĩnh    1000:1|
+Góc nhìn    178/178|
+Tấm nền    IPS|
+Kích thước màn hình    29 inches|
+Trọng lượng    Khối lượng gồm chân để:4,7kg|
+Độ phân giải màn hình    2560x1080 pixels|
+Tính năng khác    Hiệu ứng HDRChống chớp hìnhChế độ mù màuAMD FreeSync™	Dynamic Action SyncTiết kiệm năng lượng thông minh|
+'
+23
+'Tần số quét    75 Hz|
+Thời gian phản hồi    5ms|
+Tỉ lệ màn hình    21:9|
+Cổng kết nối    1 x HDMI  1 x DisplayPort 1.4  1 x USB-C  1 x Jack tai nghe 3.5|
+Độ tương phản tĩnh    1000:1|
+Góc nhìn    178º(R/L), 178º(U/D)|
+Tấm nền    IPS|
+Kích thước màn hình    29 inches|
+Trọng lượng    Khối lượng không tính chân đế: 4kg  Khối lượng tính cả chân đế: 4.8kg|
+Độ phân giải màn hình    2560 x 1080 pixels|
+'
+24
+'Tần số quét    60 Hz|
+Thời gian phản hồi    4ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    Cổng màn hìnhCổng HDMICổng Display Port 1.2|
+Độ tương phản tĩnh    1.000:1|
+Góc nhìn    178°(ngang) x 178° (dọc)|
+Tấm nền    IPS|
+Kích thước màn hình    28 inches|
+Trọng lượng    Có chân đế 5.8 kg  Không có chân đế 5.0 kg|
+Độ phân giải màn hình    3,840 x 2,160 pixels|
+'
+25
+'Tần số quét    75 Hz|
+Thời gian phản hồi    8ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    VGA  HDMI|
+Độ tương phản tĩnh    1000 : 1|
+Góc nhìn    178/178|
+Tấm nền    IPS|
+Kích thước màn hình    24 inches|
+Kích thước màn hình (studio display)    23.8 inch|
+Trọng lượng    4.1 kg|
+Độ phân giải màn hình    1920 x 1080 pixels|
+'
+26
+'Tần số quét    165 Hz|
+Thời gian phản hồi    1ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    Display Port 1.2 (1), HDMI 1.4 (1), Tai nghe|
+Độ tương phản động    3000:1(Typ.)|
+Góc nhìn    178°(H)/178°(V)|
+Tấm nền    WVA|
+Kích thước màn hình    27 inches|
+Trọng lượng    4.8 kg bao gồm chân đế|
+Độ phân giải màn hình    1920 x 1080 pixels|
+'
+27
+'Tần số quét    144 Hz|
+Thời gian phản hồi    1ms|
+Tỉ lệ màn hình    16:9|
+Cổng kết nối    2 x HDMI  1 x DisplayPor  Headphone Out|
+Độ tương phản tĩnh    1000:1|
+Góc nhìn    178º (R/L), 178º (U/D)|
+Tấm nền    IPS|
+Kích thước màn hình    24 inches|
+Trọng lượng    5.6Kg|
+Độ phân giải màn hình    1920 x 1080|
+'
+28
+'Loại bàn phím (bàn phím)    Full-size|
+Số phím (bàn phím)    104|
+Keycap (bàn phím)    Thiết kế keycap có chủ ý để chiếu sáng chính xác và rõ ràng|
+Nút nhấn    Thiết kế chống tràn, không xung đột cho tất cả các phím|
+Tương thích    Windows|
+Kết nối    Dây USB|
+Đèn LED    Đèn nền phím màu trắng với 12 chế độ chỉnh độ sáng|
+Tiện ích    Tuổi thọ bàn phím lên đến 60 triệu lần gõCảm giác cơ học thuần túy, phù hợp với những game thủ cao|
+Hãng sản xuất    Rapoo|
+Chất liệu    Nhựa PBT|
+Kết nối    USB 2.0|
+'
+29
+'Đèn nền LED    Có|
+Hãng sản xuất    Acer|
+Chất liệu    Nhựa ABS|
+Tiện ích    Trang bị Switch Outemu Blue, lực nhấn 60g   N-Key Rollover đầy đủ, đạt tiêu chuẩn 50 triệu lần nhấn|
+'
+30
+'Tương thích    Windows|
+Cách kết nối    Dây cắm USB|
+Hãng sản xuất    Zadez|
+Tính năng khác    - Thiết kế Ergonomic - 11 phím Multimedia  4 phím Macro, 3 phím chuyển Profile  Chức năng ghi macro bằng phím nóng  - 11 phím Multimedia, 26 phím N-Rollover   Độ bền phím: >10 triệu lần nhấn|
+'
+31
+'Pin    2 pin AAA, tuổi thọ pin 24 tháng.|
+Tương thích    Windows, MacOS, ChromeOS, iOS, Android, PadOS|
+Cách kết nối    Bluetooth|
+Độ dài dây / Khoảng cách kết nối    10 m|
+Kích thước bàn phím    Tenkeyless|
+Đèn nền LED    Không|
+Hãng sản xuất    Logitech|
+'
+32
+'Hãng sản xuất    Logitech|
+Cổng giao tiếp    USB (Khoảng cách kết nối: 10m)|
+Tính năng khác    - Bàn phím gõ thoải mái- Phím dễ đọc- Phím nhấn bền|
+'
+33
+'Loại bàn phím (bàn phím)    Mini-size|
+Nút nhấn    Phím được tạo hình vừa vặn với ngón tayMỗi phím được trang bị lớp phủ mờ|
+Tương thích    MacOS, Windows, Linux|
+Kết nối    USB Receiver, Dây USB|
+Đèn LED    Có hỗ trợ|
+Tiện ích    Tính năng tiết kiệm pin thông minhPhím đọc chính tả giúp chuyển đàm thoại thành văn bản|
+Hãng sản xuất    Logitech|
+'
+34
+'Loại bàn phím (bàn phím)    Full-size|
+Số phím (bàn phím)    108|
+Keycap (bàn phím)    PBT Double-Shot, ASA profile|
+Tương thích    MacOS, Windows, Linux|
+Kết nối    Dây USB to Type-C|
+Hãng sản xuất    AKKO|
+Kết nối    USB Type-C to Type-A|
+Tính năng khác    AKKO switch v3 (Cream Blue / Cream Yellow) kết hợp cùng foam tiêu âm PCB cho trải nghiệm gõ tối ưu và êm ái, LED nền RGB / PCBA 1.6mm|
+'

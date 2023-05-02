@@ -1,0 +1,76 @@
+website_list = [
+        'https://cellphones.com.vn/laptop-msi-modern-14-b11mou-1065vn.html',
+        'https://cellphones.com.vn/laptop-asus-gaming-rog-strix-g15-g513ih-hn015w.html',
+        'https://cellphones.com.vn/laptop-acer-aspire-3-a315-56-38b1.html',
+        'https://cellphones.com.vn/laptop-msi-gaming-gf63-thin-11ud-473vn.html',
+        'https://cellphones.com.vn/laptop-lenovo-ideapad-5-pro-14itl6-82l300mavn.html',
+        'https://cellphones.com.vn/laptop-lenovo-ideapad-3-15iau7-82rk001gvn.html',
+        'https://cellphones.com.vn/laptop-acer-aspire-3-a315-58-53s6.html',
+        'https://cellphones.com.vn/laptop-hp-pavilion-15-eg2037tx-6k783pa.html',
+        'https://cellphones.com.vn/laptop-hp-245-g9-6l1n8pa.html',
+        'https://cellphones.com.vn/laptop-lenovo-ideapad-gaming-3-15ihu6-82k101hgvn.html',
+        'https://cellphones.com.vn/pc-cps-gaming-g3.html',
+        'https://cellphones.com.vn/pc-cps-gaming-g8.html',
+        'https://cellphones.com.vn/pc-cps-van-phong-s3.html',
+        'https://cellphones.com.vn/pc-cps-do-hoa-d2.html',
+        'https://cellphones.com.vn/pc-cps-do-hoa-d1.html',
+        'https://cellphones.com.vn/may-tinh-all-in-one-asus-v241eat-ba057w.html',
+        'https://cellphones.com.vn/may-tinh-aio-asus-e5202whak-ba019w.html',
+        'https://cellphones.com.vn/pc-asus-rog-strix-ga35-g35dx-vn003w.html',
+        'https://cellphones.com.vn/pc-gaming-asus-rog-strix-gt15-g15cf-71270f110w.html',
+        'https://cellphones.com.vn/pc-gaming-asus-rog-strix-gt15-g15cf-51240f141w.html',
+        'https://cellphones.com.vn/man-hinh-samsung-ls24r350fzexxv-23-8-inch.html',
+        'https://cellphones.com.vn/man-hinh-cong-lg-ultrawide-29-inch-29wn600.html',
+        'https://cellphones.com.vn/man-hinh-lg-ultrawide-29-inch-29wp60g.html',
+        'https://cellphones.com.vn/man-hinh-samsung-28-inch-lu28r550uqexxv.html',
+        'https://cellphones.com.vn/man-hinh-hkc-mb24v9-24-inch.html',
+        'https://cellphones.com.vn/man-hinh-samsung-gaming-odyssey-g32-ls27ag320nexxv-27-inch.html',
+        'https://cellphones.com.vn/man-hinh-lg-gaming-ultragear-24-inch-24gn650-b.html',
+        'https://cellphones.com.vn/ban-phim-co-rapoo-v500-pro-blue-switch.html',
+        'https://cellphones.com.vn/ban-phim-co-gaming-predator-aethon-301-tkl.html',
+        'https://cellphones.com.vn/ban-phim-gaming-zadez-g-852k.html',
+        'https://cellphones.com.vn/ban-phim-bluetooth-logitech-k380.html',
+        'https://cellphones.com.vn/ban-phim-khong-day-logitech-k270.html',
+        'https://cellphones.com.vn/ban-phim-khong-day-logitech-mx-keys-mini.html',
+        'https://cellphones.com.vn/ban-phim-co-akko-monsgeek-mg108.html'
+    ]
+
+
+    website_list = [
+        'https://cellphones.com.vn/chuot-gaming-rapoo-v16.html',
+        'https://cellphones.com.vn/chuot-khong-day-elecom-m-ir07drbk.html',
+        'https://cellphones.com.vn/chuot-khong-day-microsoft-rjn.html',
+        'https://cellphones.com.vn/chuot-co-day-msi-m88.html',
+        'https://cellphones.com.vn/chuot-khong-day-dareu-lm115g.html',
+        'https://cellphones.com.vn/chuot-khong-day-rapoo-m160-silent.html',
+        'https://cellphones.com.vn/chuot-khong-day-microsoft-1850.html',
+        'https://cellphones.com.vn/chuot-co-day-rapoo-n200.html',
+        'https://cellphones.com.vn/chuot-gaming-msi-m99.html',
+        'https://cellphones.com.vn/chuot-gaming-rapoo-v280.html'
+                    ]
+
+    website_list = [
+        'https://cellphones.com.vn/tai-nghe-devia-smart-series-dual-speakers-3-5mm.html',
+        'https://cellphones.com.vn/tai-nghe-chup-tai-jbl-live-660nc.html',
+        'https://cellphones.com.vn/tai-nghe-khong-day-havit-tw959.html',
+        'https://cellphones.com.vn/tai-nghe-kz-zst.html',
+        'https://cellphones.com.vn/tai-nghe-chup-tai-sony-wh-1000xm5.html',
+        'https://cellphones.com.vn/tai-nghe-khong-day-havit-tw945.html',
+        'https://cellphones.com.vn/tai-nghe-chup-tai-robot-rh-g20.html',
+        'https://cellphones.com.vn/tai-nghe-khong-day-nokia-e3100.html',
+        'https://cellphones.com.vn/tai-nghe-khong-day-soundpeats-h2.html',
+        'https://cellphones.com.vn/tai-nghe-chup-tai-gaming-sony-inzone-h7.html'
+    ]
+
+    website_list = [
+        'https://cellphones.com.vn/vga-radeon-rx-6400-aero-itx-4g.html',
+        'https://cellphones.com.vn/o-cung-ssd-kimtigo-128gb-2-5-inch-sata-k128s3a25kta320.html',
+        'https://cellphones.com.vn/vga-gigabyte-geforce-rtx-2060-6g.html',
+        'https://cellphones.com.vn/o-cung-ssd-kingston-sa400-s37-480gb.html',
+        'https://cellphones.com.vn/o-cung-hdd-wd-blue-1tb-3-5-inch-sata-wd10ezex.html',
+        'https://cellphones.com.vn/o-cung-hdd-seagate-barracuda-1tb-64mb-st1000dm010.html',
+        'https://cellphones.com.vn/o-cung-gigabyte-ssd-120gb-sata-iii-gp-gstfs31120gntd.html',
+        'https://cellphones.com.vn/ram-gskill-aegis-8gb-3200mhz-ddr4-f4-3200c16s-8gis.html',
+        'https://cellphones.com.vn/ram-laptop-gskill-ripjaw-8gb-3200mhz-ddr4-f4-3200c22s-8grs.html',
+        'https://cellphones.com.vn/ram-laptop-lexar-16gb-3200mhz-ddr4.html',
+    ]

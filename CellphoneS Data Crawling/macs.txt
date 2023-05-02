@@ -1,0 +1,129 @@
+INSERT INTO product VALUES(65,'Mac mini M2 2023 (8 CPU - 10 GPU - 8GB - 256GB) | Chính hãng Apple Việt Nam',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/m/2/m2_256gb.png',
+'Hiệu năng vượt trội với con chip M2 cùng 10 nhân GPU - Chạy tốt các tác vụ như render video, chỉnh sửa hình ảnh|
+Đa nhiệm tốt, mở cùng lúc nhiều ứng dụng với dung lượng ram lên đến 8GBSSD 256GB giúp máy khởi động nhanh chóng, cho phép người dùng lưu trữ nhiều dữ liệu|
+Thiết kế nhỏ gọn cùng trọng lượng chỉ 1.18kg - dễ dàng di chuyển mọi lúc mọi nơi|
+Hệ điều hành MacOS Ventura mang đến khả năng bảo mật vượt trội, bảo vệ mọi dữ liẹu của người dùng',
+'Loại card đồ họa    10 nhận GPU, 16 nhân Neural Engine|
+Dung lượng RAM    8GB|
+Loại RAM    8GB|
+Ổ cứng    256GB SSD|
+Công nghệ màn hình    Hỗ trợ xuất hình ảnh 6K 60HZ qua cổng Thunderbolt. Xuất hình ảnh 4K qua cổng HDMI|
+Cổng giao tiếp    Jack 3.5mm, cổng HDMI, 2 cổng USB-A, Cổng Ethernet|
+',
+15990000 ,1,8)
+
+INSERT INTO product VALUES(66,'MacBook Pro 16 inch M2 Max 2023 (12 CPU - 38 GPU - 32GB - 1TB)',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/1/6/16_m2_max.png',
+'Chip M2 Max - Hoạt động mượt mà từ các ứng dụng đến các tác vụ render video 4K, 8K32GB ram - Vừa render video, vừa mở cùng lúc nhiều tab trình duyệt mà không lo giật lag|
+Âm thanh hình ảnh chân thật - Màn hình 120Hz cùng công nghệ Dolby Atmos|
+Thiết kế thời thượng củng phần vỏ kim loại chắc chắn|
+Bảo mật tuyệt đối với tính năng bảo mật vân tay',
+'Loại card đồ họa    38 nhân GPU|
+Dung lượng RAM    32GB|
+Số khe ram    Không hỗ trợ nâng cấp|
+Ổ cứng    1TB SSD|
+Kích thước màn hình    16 inches|
+Công nghệ màn hình    Tần số quét 120Hz. Công nghệ Liquid Retina, Mini LED, XDR1 tỳ màu|
+Hệ điều hành    MacOS|
+Độ phân giải màn hình    3456 x 2234 pixels|
+Cổng giao tiếp    1x Headphone jack  1x MagSafe port  1x HDMI  1x Thunderbolt 4  1x SDXC|
+',
+92990000 ,1,8)
+
+INSERT INTO product VALUES(67,'Apple MacBook Air M1 256GB 2020 I Chính hãng Apple Việt Nam',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/a/i/air_m2.png',
+'Phù hợp cho lập trình viên, thiết kế đồ họa 2D, dân văn phòng|
+Hiệu năng vượt trội - Cân mọi tác vụ từ word, exel đến chỉnh sửa ảnh trên các phần mềm như AI, PTS|
+Đa nhiệm mượt mà - Ram 8GB cho phép vừa mở trình duyệt để tra cứu thông tin, vừa làm việc trên phần mềm|
+Trang bị SSD 256GB - Cho thời gian khởi động nhanh chóng, tối ưu hoá thời gian load ứng dụng|
+Chất lượng hình ảnh sắc nét - Màn hình Retina cao cấp cùng công nghệ TrueTone cân bằng màu sắc|
+Thiết kế sang trọng - Nặng chỉ 1.29KG, độ dày 16.1mm. Tiện lợi mang theo mọi nơi',
+'Loại card đồ họa    GPU 7 nhân, 16 nhân Neural Engine|
+Dung lượng RAM    8GB|
+Loại RAM    LPDDR4|
+Ổ cứng    256GB SSD|
+Kích thước màn hình    13.3 inches|
+Công nghệ màn hình    Độ sáng 400 nits Hỗ trợ dải màu P3 True-Tone|
+Pin    49.9-watt lithium-polymer, củ sạc công suất 30W|
+Hệ điều hành    macOS Big Sur|
+Độ phân giải màn hình    2560 x 1600 pixels (2K)|
+Cổng giao tiếp    2 cổng Thunderbolt / USB 4|
+Tính năng khác    Cảm biến vân tay Touch ID, 720p FaceTime HD camera|
+',
+28990000 ,1,8)
+
+INSERT INTO product VALUES(68,'MacBook Pro 14 inch M2 Pro 2023 (10 CPU - 16 GPU - 32GB - 512GB)',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/m/b/mbp14-silver-select-202301_1_4_1.jpg',
+'Thiết kế sang trọng - Vỏ kim loại cùng trọng lượng chỉ 1.6kg dễ dàng mang theo mọi nơi|
+Hiển thị chân thật - Kích thước màn hình 14 inch cùng tần số quét lên đến 120Hz|
+Cấu hình mạnh mẽ - Ram 32GB cùng SSD 512 GB đa nhiệm mượt mà, tránh tình trạng giật lag|
+Xử lý tốt các tác vụ đồ hoạ - GPU 19 nhân giúp việc render video hay chỉnh sửa ảnh diễn ra một cách nhẹ nhàng',
+'Loại card đồ họa    16 nhân GPU|
+Dung lượng RAM    32GB|
+Ổ cứng    512GB SSD|
+Kích thước màn hình    14.2 inches|
+Công nghệ màn hình    120Hz, Liquid Retina, Mini LED, XDR|
+Pin    70Wh, Đi kèm sạc 67W|
+Hệ điều hành    MacOS|
+Độ phân giải màn hình    3024 x 1964 pixels|
+Cổng giao tiếp    1 x 3.5mm Cổng MagSafe 1x HDMI  1x SDXC|
+',
+63990000 ,1,8)
+
+INSERT INTO product VALUES(69,'Apple MacBook Pro 13 M2 2022 8GB 512GB I Chính hãng Apple Việt Nam',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/m/a/macbook13.png',
+'Vẻ ngoài sang trọng, siêu mỏng nhẹ - trọng lượng chỉ 1.4kg|
+Chip Apple M2 chạy mượt các úng dụng đồ hoạ như Phototshop, Premier hay các phần mềm văn phòng Word, Exel, Powerpoint|
+Ram 8GB - Đa nhiệm mượt mà, mở cùng lúc nhiều ứng dụng hay tab trình duyệt mà không lo giật lag|
+Màn hình Retina cùng các công nghệ như True Tone, Wide Color - Màu sắc hiển thị sắc nét, trải nghiệm giải trí tuyệt vời hơn bao giờ hết|
+Tích hợp touch bar - Các thao tác nhu chụp màn hình, chỉnh âm lượng trở nên dễ dàng hơn|
+Webcam 720p - Sẵn sàng tham gia các buổi họp trực tuyến hay họp online',
+'Loại card đồ họa    10 nhân GPU|
+Dung lượng RAM    8GB|
+Loại RAM    8GB|
+Ổ cứng    512GB SSD|
+Kích thước màn hình    13 inches|
+Pin    58.2Whrs|
+Hệ điều hành    MacOS|
+Cổng giao tiếp    Cổng sạc, Cổng màn hình Thunderbolt 3 (lên đến 40Gb/s)USB 4 (lên đến 40Gb/s) USB 3.1 Gen 2 (lên đến 10Gb/s) Cổng 3.5mm|
+',
+41990000 ,1,8)
+
+INSERT INTO product VALUES(70,'Apple Macbook Air M2 2022 24GB 256GB I Chính hãng Apple Việt Nam',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/m/a/macbook_air_m2_1.png',
+'Thiết kế sang trọng, lịch lãm - siêu mỏng 11.3mm, chỉ 1.24kg|
+Hiệu năng hàng đầu - Chip Apple m2, 8 nhân GPU, hỗ trợ tốt các phần mềm như Word, Axel, Adoble Premier|
+Ram lên đến 24GB - Tốc độ khởi động ứng dụng nhanh chóng, cho phép chạy máy ảo mở cùng lúc nhiều ứng dụng|
+Màn hình sắc nét - Độ phân giải 2560 x 1664 cùng độ sáng 500 nits|
+Âm thanh sống động - 4 loa tramg bị công nghệ dolby atmos và âm thanh đa chiều',
+'Loại card đồ họa    8 nhân GPU, 16 nhân Neural Engine|
+Dung lượng RAM    24GB|
+Ổ cứng    256GB|
+Kích thước màn hình    13.6 inches|
+Công nghệ màn hình    Liquid Retina Display|
+Pin    52,6 Wh|
+Hệ điều hành    MacOS|
+Độ phân giải màn hình    2560 x 1664 pixels|
+Cổng giao tiếp    2 x Thunderbolt 3, Jack tai nghe 3.5 mm MagSafe 3|
+',
+45990000 ,1,8)
+
+INSERT INTO product VALUES(71,'Apple Macbook Pro 13 M2 2022  8GB 256GB I Chính hãng Apple Việt Nam',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/p/r/pro-m2.jpg',
+'Chip M2 mới nhất - hiệu năng hàng đầu, thoải mái sử dụng các phần mềm đồ hoạ hay render video|
+Màn hình Retina - màu sắc hiển thị sống động tạo ra không gian giải trí đỉnh cao|
+Thiết kế sang trọng - Trọng lượng máy chỉ 1.4kg, độ dày chỉ 15.6mm giúp bạn dễ dàng mang theo|
+Âm thanh chân thật - Tích hợp loa kép cùng công nghệ Dolby Atmos mang đến chất lượng âm thanh tuyệt vời',
+'Loại card đồ họa    10 nhân GPU|
+Dung lượng RAM    8GB|
+Loại RAM    8GB|
+Ổ cứng    256GB SSD|
+Kích thước màn hình    13 inches|
+Pin    58.2Whrs|
+Hệ điều hành    MacOS|
+Độ phân giải màn hình    2560 x 1664 pixels|
+Cổng giao tiếp    Cổng sạc Cổng màn hình Thunderbolt 3 (lên đến 40Gb/s)USB 4 (lên đến 40Gb/s) USB 3.1 Gen 2 (lên đến 10Gb/s) Cổng 3.5mm|
+',
+35990000 ,1,8)
+

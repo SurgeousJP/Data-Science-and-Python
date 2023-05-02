@@ -1,0 +1,159 @@
+INSERT INTO products VALUES(35,'Chuột Gaming Rapoo V16',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/1/_/1.6_4.png',
+'Thiết kế cân xứng, bề mặt phủ lớp chống trơn trượt mang lại cảm giác thoải mái khi sử dụng.
+Trang bị cảm biến 2000DPI hoạt động hiệu quả và di chuyển mượt mà.
+Dây USB kết nối dài 2.1m dễ dàng kết nối với thiết bị và sử dụng ổn định.
+Tốc độ phản hồi nhanh chóng chỉ 1 ms (0.001 giây), xử lý nhanh và chính xác.
+Trang bị đèn LED với và tính năng chớp tắt giúp có những trải nghiệm thú vị hơn',
+'Tương thích    Windows, MacOS|
+Cách kết nối    Dây cắm USB|
+Đèn nền LED    Có|
+Hãng sản xuất    Rapoo|
+Tính năng khác    DPI: Lên tới 2000 DPI Nút chuyển đổi DPI nhanh trên chuột với 3 mức 750/1350/2000 DPI. Tuổi thọ: 5 triệu lần click. Tốc độ xử lý hình ảnh lên đến 6400/giây|
+',
+390000 ,1,5)
+
+INSERT INTO products VALUES(36,'Chuột không dây Elecom M-IR07DRBK',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/u/n/untitled-dcd.jpg',
+'Thân chuột được thiết kế thon gọn cho cảm giác cầm nắm thoải mái đồng thời giảm mỏi tay khi sử dụng trong thời gian dài.
+Độ phân giải 1200 DPI sẽ giúp sử dụng ổn định và trơn tru hoàn hảo.
+Sử dụng pin AA thông dụng cùng với chế độ tiết kiệm năng lượng cho thời gian sử dụng kéo dài lên đến 12 tháng',
+'Pin    Lên đến 12 tháng|
+Tương thích    Windows, MacOS|
+Cách kết nối    USB Receiver (Đầu thu USB)|
+Độ dài dây / Khoảng cách kết nối    10 m|
+Hãng sản xuất    Elecom|
+Lõi pin    1 pin AA|
+Cảm biến    1200 DPI|
+',
+249000 ,1,5)
+
+INSERT INTO products VALUES(37,'Chuột Bluetooth Microsoft Mouse',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_95.png',
+'Thiết kế nhỏ gọn, hiện đại vừa vặn thoải mái trong tay để cuộn và điều hướng chính xác.
+Trang bị cảm biến 1000 DPI hoạt động hiệu quả khi di chuyển trên hầu hết các bề mặt.
+Hỗ trợ kết nối với thiết bị thông qua Bluetooth trong khoảng cách lên tới 10mHoạt động bằng 1 viên Pin AA, thời lượng sử dụng cực kỳ cao lên đến 12 tháng',
+'Độ phân giải    1000 DPI|
+Nút nhấn    4 nút: trái, phải, bánh xe, nguồn (nhấn >3 giây để kết nối)|
+Tương thích    MacOS, Windows|
+Kết nối    Bluetooth|
+Tiện ích    Bánh xe hiện đại để cuộn dọc và nhấp nút. Swift Pair để kết nối chuột với máy tính dễ dàng. Điều chỉnh độ phân giải. Xác định lại chức năng nút bánh xe. Hoán đổi nhấp chuột trái và phải. Tùy chỉnh bánh xe, báo cáo mức pin|
+Hãng sản xuất    Microsoft|
+',
+590000 ,1,5)
+
+INSERT INTO products VALUES(38,'Chuột có dây MSI M88',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_98_1.png',
+'Thiết kế đối xứng, sử dụng tốt cho cả hai tay.
+Độ phân giải 1600 DPI giúp di chuyển mượt mà.
+Kết nối tiện lợi thông qua dây USB dài đến 2m.
+Trọng lượng nhẹ giúp sử dụng linh hoạt hơn',
+'Cảm biến    1600 DPI|
+Tương thích    Windows|
+Kết nối    Dây USB|
+Hãng sản xuất    MSI|
+',
+300000 ,1,5)
+
+INSERT INTO products VALUES(39,'Chuột không dây Dareu LM115G',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_51_2_.png',
+'Thiết kế bo tròn tạo cảm giác thoải mái khi sử dụng.
+Kết nối không dây tiện lợi, khoảng cách tối đa đến 10m.
+Di chuyển mượt mà với độ phân giải lên đến 1600 DPI.
+Trang bị 6 nút nhấn giúp nhanh chóng mọi thao tác',
+'Độ phân giải    800- 1200 - 1600 DPI|
+Nút nhấn    6 nút gồm:+ Bi lăn+ Chuột trái/phải+ Nút chỉnh DBI+ Nút trở về/chuyển tiếp|
+Tương thích    Windows, Linux|
+Kết nối    USB Receiver|
+Đèn LED    Không|
+Hãng sản xuất    DAREU|
+Cảm biến    Lên đến 1600DPI|
+',
+169000 ,1,5)
+
+INSERT INTO products VALUES(40,'Chuột Bluetooth Rapoo M160 Silent',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/1/_/1.3_5.png',
+'Kiểu dáng đơn giản, phù hợp cho người thuận cả 2 tay. 
+Độ phân giải 1300 DPI, đáp ứng nhiều nhu cầu sử dụng.
+Kết nối Bluetooth 3.0, 4.0 và đầu thu USB 2.4 GHz mượt mà. 
+Dùng 1 viên pin AA, dễ tìm mua và thay thế.',
+'Pin    Lên đến 9 tháng|
+Tương thích    Windows, MacOS|
+Cách kết nối    USB Receiver (Đầu thu USB), Bluetooth|
+Độ dài dây / Khoảng cách kết nối    10m|
+Hãng sản xuất    Rapoo|
+Chất liệu    Nhựa|
+Lõi pin    1 pin AA|
+Cảm biến    1300 DPI|
+',
+300000 ,1,5)
+
+INSERT INTO products VALUES(41,'Chuột không dây Microsoft 1850',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_101.png',
+'Thiết kế nhỏ gọn, vừa vặn thoải mái trong tay để cuộn và điều hướng chính xác.
+Trang bị cảm biến 1000 DPI hoạt động hiệu quả và di chuyển mượt mà.
+Hỗ trợ kết nối với thiết bị thông qua đầu thu USB trong khoảng cách lên tới 10m.
+Hoạt động bằng 1 viên Pin AA, thời lượng sử dụng lên đến 6 tháng',
+'Độ phân giải    1000 DPI|
+Tương thích    MacOS, Windows|
+Kết nối    USB Receiver|
+Đèn LED    Không có|
+Tiện ích    Lướt tốt trên mặt kính và gỗ|
+Hãng sản xuất    Microsoft|
+',
+350000 ,1,5)
+
+INSERT INTO products VALUES(42,'Chuột có dây Rapoo N200',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/1/_/1.11_1_1.png',
+'Thiết kế nhỏ gọn, sử dụng thoải mái.
+Độ phân giải lên đến 1600 DPI, giúp chuột di chuyển mượt mà.
+Thiết kế phù hợp cho người thuận tay phải hay tay trái.
+Thuận tiện điều khiển, nút bấm êm và nhạy',
+'Tương thích    Windows|
+Cách kết nối    Dây cắm USB|
+Độ dài dây / Khoảng cách kết nối    180 cm|
+Đèn nền LED    Không|
+Hãng sản xuất    Rapoo|
+Chất liệu    Nhựa|
+Cảm biến    1600 DPI|
+',
+100000 ,1,5)
+
+INSERT INTO products VALUES(43,'Chuột có dây Gaming MSI M99',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_102_1.png',
+'Sử dụng bền bỉ với độ thử nghiệm đến 10 triệu lần nhấn.
+Độ phân giải 4000 DPI giúp di chuyển mượt mà, ổn định.
+Trang bị đèn LED RGB với 16.8 triệu màu siêu ấn tượng.
+Thiết kế nút cuộn 3D trống trượt, giúp bạn cuộn chính xác',
+'Độ phân giải    4000 DPI|
+Cảm biến    Avago 3050|
+Nút nhấn    8 nút có thể tùy chỉnh|
+Tương thích    Windows|
+Kết nối    Dây USB|
+Đèn LED    RGB|
+Tiện ích    Độ bền đến 10 triệu lần nhấnThiết kế tản nhiệt tốt|
+Tương thích    Windows|
+Cách kết nối    Dây cắm USB|
+Độ dài dây / Khoảng cách kết nối    1.8m|
+Đèn nền LED    Có|
+Hãng sản xuất    MSI|
+',
+500000 ,1,5)
+
+INSERT INTO products VALUES(44,'Chuột có dây Gaming Rapoo V280',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/1/_/1.2_1_6.png',
+'Thiết kế cân xứng, dễ dàng thao tác cho mọi game thủ, mang lại cảm giác thoải mái khi sử dụng lâu.
+Trang bị cảm biến độ phân giải lên tới 7000DPI hoạt động hiệu quả và di chuyển mượt mà.
+Dây USB kết nối dài 1.8m dễ dàng kết nối với thiết bị và sử dụng ổn định.
+Tốc độ phản hồi nhanh chóng chỉ 1 ms (0.001 giây), xử lý nhanh và chính xác.
+Trang bị đèn LED RGB hỗ trợ 16.8 triệu màu và có thể tùy chỉnh qua phần mềm.
+Tích hợp cảm biến chạm tay làm thay đổi ánh sáng nền mang lại trải nghiệm thú vị',
+'Tương thích    Windows, MacOS|
+Cách kết nối    Dây cắm USB|
+Độ dài dây / Khoảng cách kết nối    1.8m|
+Đèn nền LED    Có|
+Hãng sản xuất    Rapoo|
+Tính năng khác    DPI: Lên tới 7000 DPI. Nút chuyển đổi DPI nhanh trên chuột. LED RGB với 16 triệu màu. Cảm biến chạm tay làm thay đổi ánh sáng nền|
+',
+690000 ,1,5)
+

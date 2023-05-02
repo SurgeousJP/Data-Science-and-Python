@@ -1,0 +1,15 @@
+(35,'Chuột Gaming Rapoo V16',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/1/_/1.6_4.png',
+'Thiết kế cân xứng, bề mặt phủ lớp chống trơn trượt mang lại cảm giác thoải mái khi sử dụng|
+Trang bị cảm biến 2000DPI hoạt động hiệu quả và di chuyển mượt mà|
+Dây USB kết nối dài 2.1m dễ dàng kết nối với thiết bị và sử dụng ổn định|
+Tốc độ phản hồi nhanh chóng chỉ 1 ms (0.001 giây), xử lý nhanh và chính xác|
+Trang bị đèn LED với và tính năng chớp tắt giúp có những trải nghiệm thú vị hơn',
+'Tương thích    Windows, MacOS|
+Cách kết nối    Dây cắm USB|
+Đèn nền LED    Có|
+Hãng sản xuất    Rapoo|
+Tính năng khác    DPI: Lên tới 2000 DPI Nút chuyển đổi DPI nhanh trên chuột với 3 mức 750/1350/2000 DPI  Tuổi thọ: 5 triệu lần click Tốc độ xử lý hình ảnh lên đến 6400/giây|
+',
+390000 ,1,5)
+

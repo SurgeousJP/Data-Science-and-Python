@@ -1,0 +1,123 @@
+INSERT INTO product VALUES(55,'VGA Radeon RX 6400 Aero ITX 4G',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_311_2_.png',
+'',
+'Chipset    AMD|
+Dung lượng    4GB|
+Kiểu bộ nhớ    GDDR6|
+Giao diện bộ nhớ    64-bit|
+GPU clock    2039 MHz|
+Giao tiếp PCI    PCI Express 4.0 x4|
+Số lượng đơn vị xử lí    768 CUDA|
+Nguồn đề xuất    350W|
+Hãng sản xuất    MSI|
+',
+4990000 ,1,7)
+
+INSERT INTO product VALUES(56,'Ổ cứng SSD Kimtigo 128GB 2.5 inch SATA K128S3A25KTA320',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/1/5/15_3_106.jpg',
+'',
+'Loại ổ cứng    SSD|
+Kết nối    SATA III|
+Dung lượng    128GB|
+Tốc độ đọc    530 MB/s|
+Hãng sản xuất    KIMTIGO|
+',
+590000 ,1,7)
+
+INSERT INTO product VALUES(57,'VGA Gigabyte GeForce RTX 2060 6G',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/5/_/5.1_5.png',
+'',
+'Chipset    NVIDIA|
+Dung lượng    6GB|
+Kiểu bộ nhớ    GDDR6|
+Giao diện bộ nhớ    192 bit|
+GPU    NVIDIA RTX 2060|
+GPU clock    1680 MHz|
+Giao tiếp PCI    16x PCI-E 3.0|
+Số lượng đơn vị xử lí    1920 CUDA|
+Đầu cấp nguồn    8 Pin*1|
+Nguồn đề xuất    500W|
+Hãng sản xuất    Gigabyte|
+Cổng giao tiếp    3x DisplayPort 1.4 1x HDMI 2.0b|
+',
+10190000 ,1,7)
+
+INSERT INTO product VALUES(58,'Ổ cứng SSD Kingston SA400S37 480GB',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/o/-/o-cung-ssd-kingston-sa400-s37-480gb-5.jpg',
+'',
+'Bộ nhớ trong    480 GB|
+Loại ổ cứng    SSD|
+Kết nối    SATA III|
+Tốc độ đọc    500 MB/s|
+Hãng sản xuất    Kingston|
+',
+1510000 ,1,7)
+
+INSERT INTO product VALUES(59,'Ổ cứng HDD WD Blue 1TB WD10EZEX',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_-_2023-01-28t224540.685.png',
+'',
+'Loại ổ cứng    HDD|
+Kết nối    SATA III|
+Dung lượng    1TB|
+Tốc độ vòng quay    7200 RPM|
+Bộ nhớ đệm    64MB|
+Hãng sản xuất    Western Digital|
+',
+1290000 ,1,7)
+
+INSERT INTO product VALUES(60,'Ổ cứng HDD Seagate Barracuda 1TB 64MB ST1000DM010',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/o/-/o-cung-hdd-seagate-barracuda-1tb-64mb-st1000dm010-1.jpg',
+'',
+'Loại ổ cứng    HDD|
+Kết nối    SATA III|
+Dung lượng    1TB|
+Tốc độ đọc    ~ 210 MB/s|
+Hãng sản xuất    Seagate|
+',
+1190000 ,1,7)
+
+INSERT INTO product VALUES(61,'Ổ cứng SSD Gigabyte 120GB SATA III',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/1/6/16_1_10.jpg',
+'',
+'Loại ổ cứng    SSD|
+Kết nối    SATA III|
+Dung lượng    120GB|
+Tốc độ đọc    500 MBps|
+Hãng sản xuất    Gigabyte|
+',
+590000 ,1,7)
+
+INSERT INTO product VALUES(62,'RAM PC G.SKILL Aegis 8GB 3200MHz DDR4',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/r/a/ram-gskill-aegis-8gb-3200mhz-ddr4-f4-3200c16s-8gis-2.jpg',
+'',
+'Dung lượng    8GB|
+Bus RAM    3200MHz|
+Hỗ trợ    DIMM (PC, Desktop)|
+Timing    CL16-18-18-38|
+Voltage    1.2V|
+Hãng sản xuất    G.SKILL|
+',
+990000 ,1,7)
+
+INSERT INTO product VALUES(63,'RAM Laptop G.SKILL Ripjaw 8GB 3200MHz DDR4',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/2/_/2_64_29.jpg',
+'',
+'Dung lượng    8GB|
+Bus RAM    3200MHz|
+Hỗ trợ    SO-DIMM (Laptop)|
+Voltage    1.2 V|
+Hãng sản xuất    G.SKILL|
+',
+1190000 ,1,7)
+
+INSERT INTO product VALUES(64,'RAM Laptop Lexar 16GB 3200MHZ DDR4',
+'https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/g/r/group_303_1_.png',
+'',
+'Dung lượng    16GB|
+Bus RAM    3200MHz|
+Hỗ trợ    SO-DIMM (Laptop)|
+Voltage    1.2V|
+Hãng sản xuất    LEXAR|
+',
+1250000 ,1,7)
+
